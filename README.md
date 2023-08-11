@@ -24,8 +24,12 @@ IoT 개발자 빅데이터분석 수업
     - Pandas 응용
         - 엑셀, CSV, JSON, DB 데이터 로드
         - 데이터 저장
-    - Matplotlib
-    - Seaborn
+
+## 4일차
+- 빅데이터 분석 기초
+    - Matplotlib / Seaborn은 옵션
     - Crawling
-        -  BeautifulSoup
+        -  BeautifulSoup 패스
         - Selenium
+- 빅데이터 분석 실습
+    - 
